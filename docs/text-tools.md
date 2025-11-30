@@ -565,3 +565,5 @@
 * [FontGenerator.cc](https://fontgenerator.cc/)
 * [FontGenerator.cool](https://fontgenerator.cool/)
 * [Fancy Text Decorator](https://fancytextdecorator.com/)
+* [Cursive Font Generator](https://fontgen.app/aesthetic-fonts/cursive-font-generator))
+* [Italic Font Generator](https://fontgen.app/text-styles/italic-font-generator)
